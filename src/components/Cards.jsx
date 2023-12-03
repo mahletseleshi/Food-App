@@ -2,7 +2,7 @@
 
 const Cards = () => {
   return (
-    <div className="max-w-[1640px] grid  rounded-xl px-4 py-12 md:grid-cols-3 gap-6">
+    <div className="max-w-[1640px] grid  rounded-xl px-12 py-12 md:grid-cols-3 gap-6">
        <div className='rounded-xl relative'>
         {/* Overlay */}
         <div className='absolute w-full h-full bg-black/50 rounded-xl text-white'>

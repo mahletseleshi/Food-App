@@ -9,3 +9,9 @@
 body{
     font-family: "poppins";
 }
+
+@layer base {
+    button {
+        @apply border border-black rounded-xl px-2 py-1
+    }
+}
