@@ -4,6 +4,7 @@ import Cards from './components/Cards'
 import Food from "./components/Food"
 
 
+
 function App() {
   
 
@@ -13,6 +14,7 @@ function App() {
       <Hero / >
       <Cards />
       <Food />
+    
     </>
   )
 }
